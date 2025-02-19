@@ -1,8 +1,12 @@
 # Pathfinding Visualizer in Python
 
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e58dcee1-5fab-4ca2-839c-7f0ca5962045)
+<img src="https://github.com/user-attachments/assets/e58dcee1-5fab-4ca2-839c-7f0ca5962045" alt="ezgif com-video-to-gif-converter" width="300" />
 
-A simple pathfinding visualizer built using Python and Pygame. This project demonstrates the A* algorithm in action by visually showing how the shortest path is found on a grid. Users can interactively set the start point, end point, and obstacles (barriers) while watching the algorithm work in real time.
+
+A simple pathfinding visualizer built using Python and Pygame. This project demonstrates the A* algorithm in action by visually showing how the shortest path is found on a grid. Users can interactively set the start point, end point, and obstacles (barriers) while watching the algorithm work in real time. 
+
+Youtube Video:
+https://www.youtube.com/watch?v=O0MvdhQdj6I&t=6s
 
 ## Features
 
